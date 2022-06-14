@@ -1,0 +1,24 @@
+#features {
+  text-align: center;
+  padding: 7% 15%;
+  background-color: #fff;
+  position: relative;
+}
+
+#features h3 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  padding-top: 10%;
+}
+
+#features p {
+  color: #8f8f8f;
+}
+
+.fa-solid {
+  color: #cf8172;
+}
+
+.fa-solid:hover {
+  color: #ff4c68;
+}

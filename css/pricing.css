@@ -1,0 +1,14 @@
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+
+#pricing h2, h3 {
+  font-size: 3rem;
+  font-weight: bold;
+  line-height: 1.5;
+}
+
+.pricing-col {
+  padding: 3% 2%;
+}
